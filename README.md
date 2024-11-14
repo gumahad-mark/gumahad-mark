@@ -1,22 +1,4 @@
-<h1>Senior Fullstack Developer</h1>
-<br />
 <h4>
-  - Over 7 years of IT experience in all phases of SDLC, like Requirement Analysis, Design, Development, Testing, and Implementation.
-</h4>
-<h4>
-  - Throughout my career, I have consistently delivered exceptional web experiences, leveraging these technologies to create seamless and visually appealing applications.
-</h4>
-<h4>
-  - Strong knowledge of React template such as <b>Redux</b>, <b>Material UI</b>, and <b>Tailwind CSS</b>.
-</h4>
-<h4>
-  - Built end to end CI/CD Pipelines in Jenkins, GitLab to retrieve code in groovy scripting, compile applications, perform tests and push build artifacts to Nexus.
+  Experienced Software Engineer with over 7 years in the industry, specializing in full-stack development using Node.js, Python, and ReactJS. Proficient in all phases of the software development life cycle, from initial planning to deployment, with a strong track record of successfully managing projects from start to finish. Known for being a proactive, hands-on leader skilled in guiding cross-functional teams in highpressure, deadline-driven environments to deliver projects on time and within budget. Excels in JavaScript, TypeScript, React, Node.js, and Python.
 </h4>
 
-- 📫 ** React, Next, Vue, Angular **
-
-- 📫 ** Golang, Node.js, Python **
-
-- 📫 ** MongoDB, MySQL, Sqlite, Postgres **
-
-- 📫 ** Docker, Kubernate, Trello, Git **
