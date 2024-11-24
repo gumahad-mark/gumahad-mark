@@ -3,9 +3,15 @@ Recognized for my proactive approach and leadership skills, I thrive in high-pre
 
 🛠  Tech Stack
 🌐   HTML5 JavaScript React Next.js Redux Python
+
 🌱   CSS SASS LESS MUI AntDesign SemanticUiReact TailwindCSS
+
 💻   npm Node.js Express JWT
+
 🛢   MongoDB PostgreSQL
+
 ⚙️   Git GitHub Playwright
+
 🔧   Visual Studio Code Postman Netlify Heroku Vercel DigitalOcean
+
 🖥   CorelDraw Photoshop Illustrator
